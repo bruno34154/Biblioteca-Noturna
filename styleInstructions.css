@@ -1,0 +1,86 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: url("fundo nav.jpg");
+
+}
+.titlebooks{
+	font-size: 25px;
+	font-family: verdana;
+	color: #ffa500;
+
+}
+.titleInstructions{
+	font-family:verdana;
+	font-size: 50px;
+	color: #ffa500;  
+}
+nav{
+	width: 100%;
+	height: 100%;
+	background-image: url("fundo nav.jpg");
+
+}
+
+.return a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: verdana;
+	color: #ffa500;
+	padding-left: 10px;
+
+}
+
+.container{
+	padding-top: 50px;
+	width: 100%;
+	height: 100%;
+	display:inline-block;
+
+}
+
+.img{
+	width: 50px;
+	height: 50px;
+	float: left;
+
+
+}
+.text{
+	font-size: 15px;
+	font-family: arial;
+	color: #ffa500;
+
+	
+}
+
+
+a:hover{
+	color: white;
+}
+
+.description{
+
+	font-size:20px;
+	font-family: arial;
+	color: #ffa500;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 50px;
+}
+@media screen and (max-width: 700px){
+	.description{
+			font-size:18px;
+			font-family: arial;
+			color: #ffa500;
+			padding-left: 100px;
+			padding-right: 100px;
+			padding-top: 50px;
+			text-align: center;
+		
+	}
+	
+}
+

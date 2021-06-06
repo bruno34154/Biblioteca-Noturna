@@ -43,6 +43,9 @@ nav{
 	height: 100px;
 	background-image: url("fundo nav.jpg");
 
+	padding-bottom: 30px;
+	margin-bottom: 10px;
+
 }
 
 .return a{

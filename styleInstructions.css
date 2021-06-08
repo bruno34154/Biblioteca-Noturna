@@ -49,6 +49,8 @@ nav{
 	text-align: justify;
 	width: 200px;
 	margin-right: 10px;
+	background-image: url("fundo cards.jpg");
+	transition: 1s;
 }
 
 .img-section {
@@ -64,13 +66,14 @@ nav{
 .container-cards-instruction .card-instruction .step {
 	text-align: center;
 	font-size: 4em;
-	color: #ffa500;
+	color: #7027c3;
 }
 
 .text{
 	font-size: 15px;
 	font-family: arial;
-	color: #ffa500;
+	color: #7027c3;
+
 
 	
 }
@@ -78,6 +81,12 @@ nav{
 
 a:hover{
 	color: white;
+}
+.container-cards-instruction .card-instruction:hover{
+	transform: scale(1.2);
+	text-align: center;
+
+
 }
 
 .description{

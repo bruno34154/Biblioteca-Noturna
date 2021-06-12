@@ -3,5 +3,5 @@
 funciona como uma pratileira virtual, onde qualquer pessoa que entrar no site pode ver e ler gratuitamente os livros disponiveis, o
 projeto é bem simples, porém pretendo em breve fazer melhorias, se você quiser contribuir ao projeto com pull requests agradeço muito.
 este projeto está hospedado em um sevidor remoto gratuito se quiser ver o resultado desse codigo acesse: 
-<a src"bibliotecanoturna.000webhostapp.com">bibliotecanoturna.000webhostapp.com</a> E da uma conferida lá!!
+<a src = "bibliotecanoturna.000webhostapp.com">bibliotecanoturna.000webhostapp.com</a> E da uma conferida lá!!
 
